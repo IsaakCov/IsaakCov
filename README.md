@@ -3,13 +3,17 @@
 #### I like to do things to make me grow, in a personal or professional way.🌲That's why I decided three years ago start with this beautiful journey in software development. 💻 :electron:
 #### I'm a fullstack developer with a hard commit to my work. I'm mostly interested in backend, machine learning and data technologies, but I can work on everything. Everything I do, is with love.
 
-<p align="right">
-  <img alt="GIF" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif">
+<br />
+<br />
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+  
 
 
 ## Skills:
 
-</p>
+
+<br />
 
 ### Programming languages:
 #### Competent:
