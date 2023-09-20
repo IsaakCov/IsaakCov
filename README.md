@@ -5,10 +5,10 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-## Skills:
-<br />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" />
 
+<br />
+## Skills:
 ### Programming languages:
 #### Competent:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/IsaakCov)](https://github.com/IsaakCov)
