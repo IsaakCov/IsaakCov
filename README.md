@@ -6,7 +6,7 @@
 <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" />
-
+## Skills:
 <br />
 ## Skills:
 ### Programming languages:
