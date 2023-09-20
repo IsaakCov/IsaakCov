@@ -3,6 +3,10 @@
 #### I like to do things to make me grow, in a personal or professional way.🌲That's why I decided three years ago start with this beautiful journey in software development. 💻 :electron:
 #### I'm a fullstack developer with a hard commit to my work. I'm mostly interested in backend, machine learning and data technologies, but I can work on everything. Everything I do, is with love.
 
+<p align="right">
+  <img alt="GIF" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif">
+</p>
+
 ## Skills:
 
 ### Programming languages:
@@ -28,6 +32,4 @@
 #### Familiar:
 [![Springboot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/IsaakCov)](https://github.com/IsaakCov)
 [![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&link=https://github.com/IsaakCov)](https://github.com/IsaakCov)
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" />
 
