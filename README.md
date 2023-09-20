@@ -1,9 +1,13 @@
-# Hi, ¡welcome to my GitHub profile!/Hola, ¡bienvenid@ a mi perfil de GitHub! 🐘
+# ¡Hola, bienvenid@ a mi perfil de GitHub! 🐘
 ![Isaac Covarrubias](banner.png)
-#### I like to do things to make me grow, in a personal or professional way.🌲That's why I decided three years ago start with this beautiful journey in software development. 💻 :electron:
-#### I'm a fullstack developer with a hard commit to my work. I'm mostly interested in backend, machine learning and data technologies, but I can work on everything. Everything I do, is with love.
 
-![GIF](https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif)
+#### Me gusta hacer cosas que me ayuden a crecer, ya sea personal o profesionalmente. 🌲 Por eso, decidí hace tres años comenzar este hermoso viaje en el desarrollo de software. 💻 :electron:
+
+#### Soy un desarrollador fullstack con un fuerte compromiso con mi trabajo. Mi principal interés está en el backend, machine learning y tecnologías de datos, pero puedo trabajar en cualquier cosa. Todo lo que hago, lo hago con amor.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="480" height="297" alt="GIF">
+</div>
 
 ## Skills:
 
@@ -30,4 +34,4 @@
 #### Familiar:
 [![Springboot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/IsaakCov)](https://github.com/IsaakCov)
 [![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&link=https://github.com/IsaakCov)](https://github.com/IsaakCov)
-
+</div>
