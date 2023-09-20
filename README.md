@@ -5,9 +5,11 @@
 
 <p align="right">
   <img alt="GIF" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif">
-</p>
+
 
 ## Skills:
+
+</p>
 
 ### Programming languages:
 #### Competent:
