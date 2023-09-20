@@ -1,8 +1,8 @@
-# Hi, ¡welcome to my GitHub profile!/Hola, ¡bienvenido a mi perfil de GitHub! 🐘
+# Hi, ¡welcome to my GitHub profile!/Hola, ¡bienvenid@ a mi perfil de GitHub! 🐘
 ![Isaac Covarrubias](banner.png)
 #### I like to do things to make me grow, in a personal or professional way.🌲That's why I decided three years ago start with this beautiful journey in software development. 💻 :electron:
 #### I'm a fullstack developer with a hard commit to my work. I'm mostly interested in backend, machine learning and data technologies, but I can work on everything. Everything I do, is with love.
-<img align="right" alt="GIF" src="<iframe src="https://giphy.com/embed/SwImQhtiNA7io" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dogs-look-ridiculous-SwImQhtiNA7io">via GIPHY</a></p>" />
+!<img align="right" alt="GIF" src="<iframe src="https://giphy.com/embed/SwImQhtiNA7io" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dogs-look-ridiculous-SwImQhtiNA7io">via GIPHY</a></p>" />
 ### Herramientas
 
 #### Lenguajes de Programación
